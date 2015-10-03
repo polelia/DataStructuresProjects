@@ -1,0 +1,14 @@
+University of Florida
+Wanda    Moreno     5 66 900
+Teresa   James      3 861000
+Daniel   Thomas    10 33 450
+Kathleen Ray        8 82 600
+Linda    Hall       21081300
+Samuel   Fowler    12 22 300
+Lois     Richardson 9 53 550
+Annie    Graham     4 95 950
+Rose     James     11 32 350
+Shawn    Reid       6 94 850
+ChristinaBanks     13 11 150
+ElizabethMorris     1 991350
+Peter    Carroll    7 65 800

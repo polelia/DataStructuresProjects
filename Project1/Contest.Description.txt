@@ -1,0 +1,16 @@
+1st row contains the univeristy name (no specific length)
+2nd row contains a record for each competitor using the following breakdown
+Fist Name			 9 chars	[0-8]
+Last Name			10 chars	[9-18]
+Final Position		 2 chars	[19-20]
+Projects Attempted	 2 chars	[21-22]
+Projects Completed	 1 chars	[23]
+Total Points		 4 chars	[24-27]
+
+Example file contents:
+
+0000000000111111111122222222
+0123456789012345678901234567
+----------------------------
+University of Michigan
+CatherineGriffin   101071100

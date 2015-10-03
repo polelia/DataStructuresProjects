@@ -1,0 +1,5 @@
+Jackson, Louis              6         9         3          750
+Evans, Carol                2         9         8         1300
+Boyd, Jeremy                1        10         9         1400
+Banks, Christina           13         1         1          150
+Alvarez, Lawrence           8         4         4          600
