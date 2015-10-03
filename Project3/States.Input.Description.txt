@@ -1,0 +1,10 @@
+States.Input.txt Master File Description
+
+State	Capital		Abbr	Population	Region	Region #
+0-14	15-29		30-31	32-39		40-54	55
+
+Example:
+
+00000000001111111111222222222233333333334444444444555555
+01234567890123456789012345678901234567890123456789012345
+Texas          Austin         TX19759614Southwest      5

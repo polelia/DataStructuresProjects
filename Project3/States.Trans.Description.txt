@@ -1,0 +1,12 @@
+States.Trans.txt Master File Description
+
+Action	State	Capital		Abbr	Population	Region	Region #
+0		1-15	16-30		31-32	33-40		41-55	56
+
+Example:
+
+000000000011111111112222222222333333333344444444445555555
+012345678901234567890123456789012345678901234567890123456
+ATexas          Austin         TX19759614Southwest      5
+DTexas          Austin         TX19759614Southwest      5
+UTexas          Austin         TX19759614Southwest      5

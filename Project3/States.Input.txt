@@ -1,0 +1,25 @@
+New_Mexico     Santa_Fe       NM 1736931Southwest      5
+Washington     Olympia        WA 5689263West           6
+Oregon         !!!!!!!!!!!!!!!!!99999999!!!!!!!!!!!!!!!0
+Rhode_Island   Providence     RI  988480New_England    1
+Pennsylvania   Harrisburg     PA12001451Middle_Atlantic2
+Delaware       @@@@@@@@@@@@@@@@@99999999@@@@@@@@@@@@@@@0
+Virginia       Richmond       VA 6791345Middle_Atlantic2
+North_Carolina Raleigh        NC 7546493South          3
+Maine          Augusta        ME 1244250New_England    1
+Vermont        $$$$$$$$$$$$$$$$$99999999$$$$$$$$$$$$$$$0
+New_Hampshire  %%%%%%%%%%%%%%%%%99999999%%%%%%%%%%%%%%%0
+Georgia        Atlanta        GA 7642207South          3
+Alabama        ^^^^^^^^^^^^^^^^^99999999^^^^^^^^^^^^^^^0
+Mississippi    Jackson        MS 2752092South          3
+Arkansas       &&&&&&&&&&&&&&&&&99999999&&&&&&&&&&&&&&&0
+Michigan       Lansing        MI 9817242Midwest        4
+Illinois       Springfield    IL12045326Midwest        4
+Wisconsin      *****************99999999***************0
+Missouri       Jefferson_City MO 5438559Midwest        4
+North_Dakota   (((((((((((((((((99999999(((((((((((((((0
+Nebraska       )))))))))))))))))99999999)))))))))))))))0
+Kansas         Topeka         KS 2629067Midwest        4
+Wyoming        Cheyenne       WY  480907West           6
+Utah           #################99999999###############0
+Alaska         Juno           AK  614010West           6

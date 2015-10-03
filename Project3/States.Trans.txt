@@ -1,0 +1,45 @@
+AMontana        Helena         MT  880453West           6
+ALouisiana      Baton_Rouge    LA 4368967South          3
+ANew_York       Albany         NY18146200Middle_Atlantic2
+DAlaska         
+AWest_Virginia  Charleston     WV 1811156Middle_Atlantic2
+AMinnesota      St_Paul        MN 4725419Midwest        4
+AOklahoma       Oklahoma_City  OK 3346713Southwest      5
+AIowa           Des_Moines     IA 2862447Midwest        4
+AColorado       Denver         CO 3970971West           6
+DGeorgia        
+AIndiana        Indianapolis   IN 5899195Midwest        4
+UNebraska       Lincoln        NE 1662719Midwest        4
+AConnecticut    Hartford       CT 3274069New_England    1
+DNorth_Carolina 
+UOregon         Salem          OR 3281974West           6
+UUtah           Salt_Lake_City UT 2099758West           6
+AFlorida        Tallahassee    FL14915980South          3
+ANevada         Carson_City    NV 1746898West           6
+DWyoming        
+DRhode_Island   
+DIllinois       
+ACalifornia     Sacramento     CA32182118West           6
+DKansas         
+DVirginia       
+AKentucky       Frankfort      KY 3936499South          3
+UArkansas       Little_Rock    AR 2538303South          3
+UNew_Hampshire  Concord        NH 1185048New_England    1
+ANew_Jersey     Trenton        NJ 8115011Middle_Atlantic2
+AIdaho          Boise          ID 1228684West           6
+AOhio           Columbus       OH 3346713Midwest        4
+UVermont        Montpelier     VT  588632New_England    1
+AHawaii         Honolulu       HI 1193001West           6
+UAlabama        Montgomery     AL 4351999South          3
+ATennessee      Nashville      TN 5430621South          3
+AMassachusetts  Boston         MA 6147132New_England    1
+UWisconsin      Madison        WI 5223500Midwest        4
+ATexas          Austin         TX19759614Southwest      5
+DMissouri       
+DWashington     
+UDelaware       Dover          DE  743603Middle_Atlantic2
+ASouth_Dakota   Pierre         SD  738171Midwest        4
+ASouth_Carolina Columbia       SC 3835962South          3
+UNorth_Dakota   Bismark        ND  638244Midwest        4
+AMaryland       Annapolis      MD 5134808Middle_Atlantic2
+AArizona        Phoenix        AZ 4668631Southwest      5

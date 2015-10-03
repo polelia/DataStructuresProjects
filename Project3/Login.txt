@@ -1,0 +1,35 @@
+Imports System.Data
+Imports System.Configuration
+Imports System.Data.SqlClient
+Imports System.Web.Security
+
+Partial Class Login
+    Inherits System.Web.UI.Page
+
+    Protected Sub ValidateUser(sender As Object, e As EventArgs)
+        Dim userVal As Boolean = False
+        Dim constr As String = ConfigurationManager.ConnectionStrings("constr").ConnectionString
+        Using con As New SqlConnection(constr)
+            Using cmd As New SqlCommand("Validate_User")
+                cmd.CommandType = CommandType.StoredProcedure
+                cmd.Parameters.AddWithValue("@Email", lgnUser.Email)
+                cmd.Parameters.AddWithValue("@Password", lgnUser.Password)
+                cmd.Connection = con
+                con.Open()
+                userVal = cmd.ExecuteScalar()
+                con.Close()
+            End Using
+            If userVal = False Then
+
+                lgnUser.FailureText = "Username and/or password is incorrect."
+            Else
+                FormsAuthentication.RedirectFromLoginPage(lgnUser.UserName, lgnUser.RememberMeSet)
+            End If
+        End Using
+    End Sub
+
+    Protected Sub lgnUser_Authenticate(sender As Object, e As System.Web.UI.WebControls.AuthenticateEventArgs) Handles lgnUser.Authenticate
+        ValidateUser()
+    End Sub
+End Class
+
